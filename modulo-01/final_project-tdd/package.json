@@ -1,0 +1,25 @@
+{
+  "name": "final_project-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "seed": "node ./seed",
+    "test": "npx mocha -w --parallel **/**/*.test.js",
+    "test:cov": "npx nyc npx mocha --parallel **/**/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "chai": "^4.3.7",
+    "faker": "^5.5.3",
+    "mocha": "^10.2.0",
+    "nyc": "^15.1.0",
+    "sinon": "^15.1.0"
+  }
+}

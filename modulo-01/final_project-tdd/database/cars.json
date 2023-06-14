@@ -1,0 +1,23 @@
+[
+    {
+        "id": "01e147c4-c90a-4adc-b940-8ab3fbefc92c",
+        "name": "Explorer",
+        "releaseYear": 2022,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "ef1f6898-17d0-45e3-9fa3-6752c705bd95",
+        "name": "Grand Caravan",
+        "releaseYear": 2023,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "f4455712-ac3f-4bbb-8e58-fd261b6d2dbb",
+        "name": "Model 3",
+        "releaseYear": 2022,
+        "available": true,
+        "gasAvailable": true
+    }
+]
