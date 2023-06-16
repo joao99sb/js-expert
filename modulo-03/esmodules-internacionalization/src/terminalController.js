@@ -1,5 +1,5 @@
 import readline from "node:readline";
-import chalk from "chalk";
+import chalk from "chalk/index.js";
 import Draftlog from "draftlog";
 import chalkTable from "chalk-table";
 
